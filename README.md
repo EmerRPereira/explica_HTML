@@ -1,2 +1,4 @@
-# explica_HTML
-Aula sobre introdução do HTML no GitHub
+# Aula sobre introdução do HTML no GitHub
+## explica_HTML
+
+- Programação em HTML
